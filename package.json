@@ -11,5 +11,24 @@
   "dependencies": {
     "cheerio": "^1.0.0-rc.6",
     "node-fetch": "^2.6.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamirulofficial/timely-newz.git"
+  },
+  "keywords": [
+    "newz",
+    "api",
+    "short-news",
+    "summarized-newz",
+    "national",
+    "international",
+    "news"
+  ],
+  "publishConfig": { "registry": "https://npm.pkg.github.com/@iamirulofficial" },
+  "bugs": {
+    "url": "https://github.com/iamirulofficial/timely-newz/issues"
+  },
+  "homepage": "https://github.com/iamirulofficial/timely-newz#readme"
 }
