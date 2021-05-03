@@ -26,9 +26,6 @@
     "international",
     "news"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@iamirulofficial"
-  },
   "bugs": {
     "url": "https://github.com/iamirulofficial/timely-newz/issues"
   },
